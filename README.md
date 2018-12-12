@@ -2,16 +2,18 @@
 
 En este ejercicio trabajaremos con una [url que contiene información de 5 paletas de colores](https://raw.githubusercontent.com/Adalab/dorcas-repaso-sprint2/master/data/palettes.json).
 
+Datos a tener en cuenta antes de empezar:
+- Crear todas las carpetas y archivos desde la terminal con `mkdir` y `touch`.
+- Escribir *antes* el planteamiento de cómo se hará el código JavaScript.
+- Utilizar siempre `console.log()` para comprobar que va funcionando nuestro código.
+- Recordar vincular correctamente los archivos *main.js* y *main.css*. Hacer una comprobación sencilla.
+
 Con la url dada, hacer una petición de información para:
 1. Pintar en la consola un listado con los nombres de cada paleta de colores.
 2. Pintar en el HTML dicho listado con los nombres de cada paleta de colores.
 3. Pintar en la consola un listado de los colores que contiene cada paleta.
 4. Pintar en el HTML dicho listado con los colores que contiene cada paleta.
 5. Hacer que el listado de los colores de cada paleta se convierta realmente en una paleta de colores, por ejemplo un div que contenga los cuadraditos con el color de la paletas.
-
->#### Nota 1: Crear todas las carpetas y archivos desde la terminal con `mkdir` y `touch`.
->#### Nota 2: Escribir *antes* el planteamiento de cómo se hará el código JavaScript.
->#### Nota 2: Utilizar siempre `console.log()` para comprobar que va funcionando nuestro código.
 
 # PISTAS de la facilitadora (Nasiba) para realizar el ejercicio:
 
