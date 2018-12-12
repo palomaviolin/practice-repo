@@ -7,6 +7,7 @@ Datos a tener en cuenta antes de empezar:
 - Escribir *antes* el planteamiento de cómo se hará el código JavaScript.
 - Utilizar siempre `console.log()` para comprobar que va funcionando nuestro código.
 - Recordar vincular correctamente los archivos *main.js* y *main.css*. Hacer una comprobación sencilla.
+- Primero crear el repo, luego clonarlo, después creamos una RAMA y será ahí donde trabajemos.
 
 Con la url dada, hacer una petición de información para:
 1. Pintar en la consola un listado con los nombres de cada paleta de colores.
