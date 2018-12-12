@@ -18,7 +18,7 @@ Con la url dada, hacer una petición de información para:
 
 # PISTAS de la facilitadora (Nasiba) para realizar el ejercicio:
 
-- Ejemplo de un array con dos objetos. Después un `for` que hace que para cada vuelta coge el primer item del array, luego en la segunda vuelta el segundo.
+- Ejemplo de un array con dos objetos. Después un `for` que hace que para cada vuelta coge el primer item del array, luego en la segunda vuelta el segundo. Luego en la variable `currentAdalaber` se guarda la información de cada objeto en cada vuelta (en el orden en el que aparecen , de arriba hacia abajo).
 ```
 const adalabers [
     {
@@ -30,8 +30,9 @@ const adalabers [
         hair: 'black'
     }
 ]
+
 for(let i=0; i<adalabers.length;i++){
-let currentAdalaber = adalabers[i];
+   let currentAdalaber = adalabers[i];
 }
 ```
 
